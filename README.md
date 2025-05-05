@@ -37,4 +37,4 @@ It is a hands-on collection meant for practicing and building a strong foundatio
 Clone the repository and run any Python file using:
 
 ```bash
-python python-basics-problem.py
+python python-basics-problem-solving.py
